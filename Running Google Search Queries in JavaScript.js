@@ -1,0 +1,1 @@
+var query = document.querySelector('.target');
